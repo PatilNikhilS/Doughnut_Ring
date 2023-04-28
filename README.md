@@ -124,7 +124,7 @@ combination of design choices and use of AJAX to populate data makes for a
 compelling and user-friendly review page.
 
 ```
- <br>img width=1000px height=800px src="https://user-images.githubusercontent.com/89438683/235085833-59cfe168-1c9c-487c-99db-d58646562177.png" alt="Project logo">
+ <br><img width=1000px height=800px src="https://user-images.githubusercontent.com/89438683/235085833-59cfe168-1c9c-487c-99db-d58646562177.png" alt="Project logo">
 
 ```
 6. Order Online Page
